@@ -2,6 +2,7 @@
 	SQL TCL Based Commands
 	======================
 	-- TCL stands for Transaction Control Language which is used to perform transaction on data.
+	   Transaction basically denotes for multiple group of statements.
 
 
 		TCL Based Statements

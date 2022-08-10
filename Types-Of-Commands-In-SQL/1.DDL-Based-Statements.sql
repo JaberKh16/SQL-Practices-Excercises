@@ -5,7 +5,7 @@
 	It is basically used to define the relation model(ER).
 	
 	DDL Based Command For Different Working
-	---------------------------------------
+	=======================================
 	a) To Create A Table ==> use 'CREATE' Statement 
 		-- Syntax Of Creating Tables
 		-- Syntax:

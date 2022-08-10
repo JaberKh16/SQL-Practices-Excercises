@@ -1,9 +1,9 @@
 /*
 
-SQL DML Based Commands Concept
-==============================
--- SQL DML(Data Manipulation Language) is used to perform manipulation of data/records.
--- These DML uses to perform some logical operation on data.
+   SQL DML Based Commands Concept
+   ==============================
+   -- SQL DML(Data Manipulation Language) is used to perform manipulation of data/records.
+   -- These DML uses to perform some logical operation on data.
 
 	DML Based Statements
 	====================

@@ -1,6 +1,6 @@
 /*
-	SQL DCL Based Commands Concept
-	===============================
+	SQL DCL Based Commands
+	======================
 	-- DCL stands for Data Control Langauge which is used to control the data
 	   depending on what settings or privileges we want to give on data.
 

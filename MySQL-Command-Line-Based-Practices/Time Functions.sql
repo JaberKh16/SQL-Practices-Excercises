@@ -1,0 +1,3 @@
+-- Working with Time Functions
+-- Just time no date
+-- Time Format :  "HH:MM:SS"

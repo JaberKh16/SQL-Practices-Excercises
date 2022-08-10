@@ -1,11 +1,14 @@
-SELECT database();
-
+-- to select the database
+SELECT database(); 
+-- to create the database
 CREATE DATABASE create_shirt;
 
+-- to select newly created database
 use create_shirt;
 
 SELECT database();
 
+-- to create tables 
 CREATE TABLE create_shirt
   (
     shirt_id INT NOT NULL AUTO_INCREMENT,

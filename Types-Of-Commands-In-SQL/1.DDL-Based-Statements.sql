@@ -1,11 +1,11 @@
 /*
-	Data Definition Language(DDL)
-	=============================
+	SQL Data Definition Language(DDL)
+	==================================
 	DDL is used to change the structure of the table like- creating, altering or deleting tables.
 	It is basically used to define the relation model(ER).
 	
 	DDL Based Command For Different Working
-	=======================================
+	---------------------------------------
 	a) To Create A Table ==> use 'CREATE' Statement 
 		-- Syntax Of Creating Tables
 		-- Syntax:
